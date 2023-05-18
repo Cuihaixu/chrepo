@@ -1,0 +1,8 @@
+Origin: chrepo
+Label: chrepo
+Suite: stable
+Version: 1.0
+Codename: Tccpg
+Architectures: iphoneos-arm
+Components: main
+Description: chrepo
